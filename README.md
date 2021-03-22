@@ -62,3 +62,9 @@ Normalisation is the process of reorganising data in a database. There are 6 nor
 
 ### Entity Relationship Diagram
 An entity relationship diagram displays primary-foreign key relationships between related tables, as well as a list of attributes for each table.
+
+### What is Git and what are the benefits
+Git is a version control system. It commits a version of a file, and can rollback to a previous commit if necessary.
+
+### What is Git-hub and what are the benefits
+Github is an online repository, which saves files on the cloud, and allows them to be accessed from any system and by multiple users.
